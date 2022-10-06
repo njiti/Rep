@@ -1,2 +1,4 @@
-# Rep
+# Representative
 An app ment to help students to know when and where their classes are...and aslo to give an input about their teachers and how they teach
+##Overview
+After my first lesson with my Communication Skills teacher I realized something, student can be deducted marks from not attending class or for presentation. While most lecturers are free to do what they want and most do not put alot of effort into what they teach. This platform is ment for merriting teachers, and conviniently for representatives and lectures to be able to set classes while being able to see which rooms are free. This is because in our university, when a teacher asks for an early class or a make up, we mostly get to move from one class to another, wasting time instead of learning, here they will be able to plan ahead on which venues are free and when.
